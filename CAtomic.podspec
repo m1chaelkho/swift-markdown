@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
     s.description      = 'This is a level 0 module'
     s.homepage         = 'https://github.com/m1chaelkho/swift-markdown'
     s.author           = { 'PayPay' => '' }
-    s.source           = { :git => 'https://github.com/Pay-Baymax/pay2-ios.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/m1chaelkho/swift-markdown.git', :tag => s.version.to_s }
 
     s.ios.deployment_target = '13.0'
 
